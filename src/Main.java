@@ -1,8 +1,8 @@
 import java.time.LocalDate;
 import java.util.ArrayList;
-import java.util.List;
+// import java.util.List;
 
-import br.com.desafio.dominio.Conteudo;
+// import br.com.desafio.dominio.Conteudo;
 import br.com.desafio.dominio.Curso;
 import br.com.desafio.dominio.Mentoria;
 
@@ -20,8 +20,8 @@ public class Main {
         curso2.setDescricao("Descrição Curso Js");
         curso2.setCargaHoraria(4);
 
-        Conteudo conteudo = new Curso();
-        List<String> palavras = new ArrayList<>();
+        // Conteudo conteudo = new Curso();
+        // List<String> palavras = new ArrayList<>();
 
         Mentoria mentoria = new Mentoria();
         mentoria.setTitulo("Mentoria de Java");
